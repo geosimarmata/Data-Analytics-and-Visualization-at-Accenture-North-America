@@ -1,5 +1,7 @@
 # Accenture-Data-Analytics-and-Visualization
 
+![Data Analysis](https://github.com/geosimarmata/Data-Analytics-and-Visualization-at-Accenture-North-America/blob/main/Accenture.jpg)
+
 * Task 1: Project Understanding
 * Task 2: Data Cleaning & Modeling
 * Task 3: Data Visualization & Storytelling
